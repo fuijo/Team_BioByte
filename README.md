@@ -20,7 +20,25 @@
 **Some resources files during the study**
 ![image](https://github.com/user-attachments/assets/ae11d259-2555-4b9d-94d6-10106665e332)
 
+**Test data and the predictions for CTC interactions**
+![image](https://github.com/user-attachments/assets/0ed3b895-2983-4916-a8f3-3b6fc39982f1)
 
+**Keras model for prediction with CTC interaction in metastasis and non-metastasis cells.**
+![image](https://github.com/user-attachments/assets/f165619d-a18c-4707-9469-f43f882eff6a)
+![image](https://github.com/user-attachments/assets/a50ef48a-26e6-4f6e-9427-f890ac906567)
+
+**Linear regression for the final_merged dataset of the study**
++ Training Matrix
+  ![image](https://github.com/user-attachments/assets/02587c48-5610-42a5-830f-c389f2eba33b)
+
++ Test Matrix
+  ![image](https://github.com/user-attachments/assets/8989dfa4-8f24-4148-a946-3489c169097c)
+
++ Training Classification report **
+  ![image](https://github.com/user-attachments/assets/57dc07d5-b07f-4498-8273-16ab0cb3b1fd)
+
++ Interaction of gen EPCAM with cells in the full dataset**
+  ![image](https://github.com/user-attachments/assets/18a350c7-4c52-4e62-8788-df0f234bf407)
 
 **2. Key Findings**
 
