@@ -20,7 +20,7 @@
 
 ![image](https://github.com/user-attachments/assets/3157397e-cdb4-4f5a-a3e8-9cff8412dddc)
 
-**Some resources files during the study**
+**Some resources files during the study** The resources file is release in the tag section fo the repository. 
 
 ![image](https://github.com/user-attachments/assets/ae11d259-2555-4b9d-94d6-10106665e332)
 
