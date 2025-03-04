@@ -6,6 +6,22 @@
 
 **1. Introduction**  Breast cancer remains a leading cause of cancer-related mortality, with metastasis being a critical factor in patient prognosis. Circulating tumor cells (CTCs) are pivotal in the metastatic process, interacting with peripheral blood mononuclear cells (PBMCs) to potentially influence disease progression. This study utilized single-cell RNA sequencing (scRNA-seq) to analyze the heterogeneity of CTC populations and their interactions with PBMCs, offering insights into metastatic mechanisms.
 
+**EDA Exploratory Analysis**
+
+**Dataset 1:**
+![image](https://github.com/user-attachments/assets/68e14023-2d48-43d9-be82-5bd047c99e30)
+
+**Dataset 2:**
+![image](https://github.com/user-attachments/assets/62664b8f-5e8a-4f60-8fa4-5687427abaa0)
+
+**Merged Dataset:**
+![image](https://github.com/user-attachments/assets/3157397e-cdb4-4f5a-a3e8-9cff8412dddc)
+
+**Some resources files during the study**
+![image](https://github.com/user-attachments/assets/ae11d259-2555-4b9d-94d6-10106665e332)
+
+
+
 **2. Key Findings**
 
 + **CTC Heterogeneity:** Distinct transcriptional profiles were identified within CTC populations, revealing significant heterogeneity between metastatic and localized breast cancer samples.
@@ -14,7 +30,7 @@
 
 + **Immunomodulatory Mechanisms:** Analysis suggested that CTCs in metastatic cases had altered cytokine signaling pathways, potentially modulating PBMC responses and fostering an immune-suppressive microenvironment.
 
-+ **Pathway Enrichment Analysis:** Key signaling pathways such as TGF-β, PI3K/AKT, and JAK/STAT were significantly enriched in metastatic CTCs, indicating their role in promoting metastasis and immune interactions.
++ **Pathway Enrichment Analysis:** Key signaling pathways such as EPCAM were significantly enriched in metastatic CTCs, indicating their role in promoting metastasis and immune interactions.
 
 **3. Implications for Treatment and Prognosis**
 
