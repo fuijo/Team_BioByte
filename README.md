@@ -1,7 +1,5 @@
 # Team_BioByte
 
-![image](https://github.com/user-attachments/assets/b977fd30-56fd-4844-b3e8-a9b8554e51b4)
-
 **Single-Cell RNA Sequencing of Circulating Tumor Cells in Breast Cancer**
 
 **1. Introduction**  Breast cancer remains a leading cause of cancer-related mortality, with metastasis being a critical factor in patient prognosis. Circulating tumor cells (CTCs) are pivotal in the metastatic process, interacting with peripheral blood mononuclear cells (PBMCs) to potentially influence disease progression. This study utilized single-cell RNA sequencing (scRNA-seq) to analyze the heterogeneity of CTC populations and their interactions with PBMCs, offering insights into metastatic mechanisms.
@@ -66,3 +64,6 @@
 + **Immune-based Strategies:** The findings emphasize the need for targeted immunotherapies to counteract CTC-mediated immune suppression and enhance anti-tumor immunity.
 
 **4. Conclusion** This study provides a comprehensive analysis of CTC heterogeneity and their interactions with immune cells, shedding light on mechanisms that drive metastasis. The identification of unique transcriptional signatures and immunomodulatory pathways offers valuable insights for the development of novel prognostic markers and targeted therapies for breast cancer patients. Future research should focus on validating these findings in larger patient cohorts and exploring therapeutic interventions based on identified molecular pathways.
+
+![image](https://github.com/user-attachments/assets/b977fd30-56fd-4844-b3e8-a9b8554e51b4)
+
